@@ -26,7 +26,6 @@
 21. resolve captcha
 
 
-### contact me
-**Contact for api :** [https://t.me/tiktokpeppa](https://t.me/tiktokpeppa)
-## telegram: @tiktokpeppa
-## skype: live:.cid.8e129461a4e880f7
+
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
